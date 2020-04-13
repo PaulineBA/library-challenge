@@ -19,7 +19,7 @@ https://github.com/PaulineBA/library-challenge
 https://github.com/erikbjoern/library-challenge
 
 
-Dependencies/Installing:
+**Dependencies/Installing:**
 In order to use the app you will need the following;
 
 -- Ruby (check https://github.com/rvm/ubuntu_rvm)
